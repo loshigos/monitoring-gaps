@@ -8,6 +8,8 @@ The repository computes, for evidence-accumulation tasks, the **monitoring gap**
 
 All numbers, tables and figures in the article and in Online Resource 1 can be regenerated from the files in `results/`, and every file in `results/` can be regenerated from the code.
 
+The computed results are distributed as `results.zip`. Unzip it in the repository root (`unzip results.zip`) to obtain the `results/` folder before regenerating any table or figure.
+
 ## Installation
 
 Python 3.10 or later.
