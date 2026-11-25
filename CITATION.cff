@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "monitoring-gaps: code and results for 'When is confidence enough for metacognitive control? Certified monitoring gaps in artificial agents'"
+authors:
+  - family-names: Caro
+    given-names: Manuel F.
+    affiliation: "Universidad de Córdoba, Colombia"
+  - family-names: Toscano
+    given-names: Raúl E.
+    affiliation: "Universidad de Córdoba, Colombia"
+version: "1.0"
+date-released: "2026-11-25"
+license: MIT
+repository-code: "https://github.com/loshigos/monitoring-gaps"
